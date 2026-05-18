@@ -63,7 +63,7 @@ export default function Contact() {
         <div>
           <p className="font-semibold text-red-300">Contact Us</p><h2 className="mt-3 text-3xl font-bold tracking-tight md:text-4xl">Let’s discuss your software needs</h2>
           <p className="mt-5 leading-8 text-slate-300">Share your project requirements, support needs, or modernization goals. D2Eminence can help you plan the right technology path.</p>
-          <div className="mt-8 space-y-4 text-slate-300"><p className="flex items-center gap-3"><Mail className="h-5 w-5 text-red-300" /> admin@d2-eminence.com</p><p className="flex items-center gap-3"><Phone className="h-5 w-5 text-red-300" /> +1 (000) 000-0000</p><p className="flex items-center gap-3"><MapPin className="h-5 w-5 text-red-300" /> United States</p></div>
+          <div className="mt-8 space-y-4 text-slate-300"><p className="flex items-center gap-3"><Mail className="h-5 w-5 text-red-300" /> admin@d2-eminence.com</p><p className="flex items-center gap-3"><Phone className="h-5 w-5 text-red-300" /> +1 (800) 376-9159</p><p className="flex items-center gap-3"><MapPin className="h-5 w-5 text-red-300" /> United States</p></div>
         </div>
         <form className="rounded-3xl bg-white p-6 text-slate-900 shadow-2xl" onSubmit={handleSubmit}>
           <div className="grid gap-4">
